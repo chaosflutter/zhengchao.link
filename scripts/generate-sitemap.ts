@@ -2,7 +2,7 @@ import fs from 'fs'
 import { globby } from 'globby'
 import prettier from 'prettier'
 
-const SITE_URL = 'https://zhengchao.dev'
+const SITE_URL = 'https://zhengchao.link'
 
 ;(async () => {
   console.log('Generating sitemap...')

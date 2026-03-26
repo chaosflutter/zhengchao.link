@@ -7,8 +7,8 @@ export const siteMetadata = {
   description:
     "Chad's coding journey - work and life stories through the keyboard of an open-minded Software Engineer",
   language: 'en-us',
-  siteUrl: 'https://zhengchao.dev',
-  siteRepo: 'https://github.com/chaosflutter/zhengchao.dev',
+  siteUrl: 'https://zhengchao.link',
+  siteRepo: 'https://github.com/chaosflutter/zhengchao.link',
   siteLogo: '/static/images/profile-square.jpg',
   image: '/static/images/profile-square.jpg',
   socialBanner: '/static/images/profile-square.jpg',
@@ -45,7 +45,7 @@ export const commentConfig = {
   provider: 'giscus', // 'giscus' | 'utterances' | 'disqus',
   // https://giscus.app/
   giscusConfig: {
-    repo: 'chaosflutter/zhengchao.dev', // process.env.GISCUS_REPO
+    repo: 'chaosflutter/zhengchao.link', // process.env.GISCUS_REPO
     repositoryId: 'R_kgDOJMQZHQ', // process.env.GISCUS_REPOSITORY_ID
     category: 'Announcements', // process.env.GISCUS_CATEGORY
     categoryId: 'DIC_kwDOJMQZHc4CXB9l', // process.env.GISCUS_CATEGORY_ID
